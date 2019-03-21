@@ -11251,7 +11251,7 @@
                     onClick: function() {
                       var e = window.globalConfig || {}
                       window.open(
-                        e.finishPage || 'http://www.jusfoun.com',
+                        e.finishPage || 'http://www.idataink.com',
                         e.finishPageTarget || '_blank'
                       )
                     }
